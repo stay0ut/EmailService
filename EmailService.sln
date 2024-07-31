@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmailService", "EmailService\EmailService.csproj", "{96DFF4F8-7B8A-46E0-961E-99B2803534C8}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Common", "Common", "{A3179BD6-9802-4CC3-B83D-CDB13292F843}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "BLL", "BLL", "{E7D6876F-D24F-45E5-9E7F-29291333EFB3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmailService.Contracts", "EmailService.Contracts\EmailService.Contracts.csproj", "{825FFF12-3CD5-45D3-A013-F0E26EEB7415}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmailService.Api", "EmailService.Api\EmailService.Api.csproj", "{27B15A48-FAD3-4972-A9D2-A4EDAF1DDA04}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{96DFF4F8-7B8A-46E0-961E-99B2803534C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96DFF4F8-7B8A-46E0-961E-99B2803534C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96DFF4F8-7B8A-46E0-961E-99B2803534C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96DFF4F8-7B8A-46E0-961E-99B2803534C8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{825FFF12-3CD5-45D3-A013-F0E26EEB7415}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{825FFF12-3CD5-45D3-A013-F0E26EEB7415}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{825FFF12-3CD5-45D3-A013-F0E26EEB7415}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{825FFF12-3CD5-45D3-A013-F0E26EEB7415}.Release|Any CPU.Build.0 = Release|Any CPU
+		{27B15A48-FAD3-4972-A9D2-A4EDAF1DDA04}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27B15A48-FAD3-4972-A9D2-A4EDAF1DDA04}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27B15A48-FAD3-4972-A9D2-A4EDAF1DDA04}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27B15A48-FAD3-4972-A9D2-A4EDAF1DDA04}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{825FFF12-3CD5-45D3-A013-F0E26EEB7415} = {A3179BD6-9802-4CC3-B83D-CDB13292F843}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,11 @@
+C:\Users\a.rakhimov\RiderProjects\EmailService\EmailService.Contracts\bin\Debug\net6.0\EmailService.Contracts.deps.json
+C:\Users\a.rakhimov\RiderProjects\EmailService\EmailService.Contracts\bin\Debug\net6.0\EmailService.Contracts.dll
+C:\Users\a.rakhimov\RiderProjects\EmailService\EmailService.Contracts\bin\Debug\net6.0\EmailService.Contracts.pdb
+C:\Users\a.rakhimov\RiderProjects\EmailService\EmailService.Contracts\obj\Debug\net6.0\EmailService.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\a.rakhimov\RiderProjects\EmailService\EmailService.Contracts\obj\Debug\net6.0\EmailService.Contracts.AssemblyInfoInputs.cache
+C:\Users\a.rakhimov\RiderProjects\EmailService\EmailService.Contracts\obj\Debug\net6.0\EmailService.Contracts.AssemblyInfo.cs
+C:\Users\a.rakhimov\RiderProjects\EmailService\EmailService.Contracts\obj\Debug\net6.0\EmailService.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\a.rakhimov\RiderProjects\EmailService\EmailService.Contracts\obj\Debug\net6.0\EmailService.Contracts.dll
+C:\Users\a.rakhimov\RiderProjects\EmailService\EmailService.Contracts\obj\Debug\net6.0\refint\EmailService.Contracts.dll
+C:\Users\a.rakhimov\RiderProjects\EmailService\EmailService.Contracts\obj\Debug\net6.0\EmailService.Contracts.pdb
+C:\Users\a.rakhimov\RiderProjects\EmailService\EmailService.Contracts\obj\Debug\net6.0\ref\EmailService.Contracts.dll
